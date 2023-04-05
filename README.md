@@ -9,6 +9,13 @@ Zap の History に表示される、使用タスクの量を見れば良い。
 
 なお、以下で示すＡとＢの Zap はそれぞれ 2タスクであった。
 
+## Zapier
+（Ａ）Insta2Slack  
+https://zapier.com/shared/ff45e2c7215ac762a5cb16877e96db282180bc32
+  
+（Ｂ）Twi2Slack
+https://zapier.com/shared/3bb70a167231c28357ca70fdded6a956970a7303
+
 ## やりたいこと
 インスタまたはTwitterから、特定ハッシュタグを含む  
 投稿のみを Slack に転送したい。  
@@ -65,8 +72,7 @@ Twitter からの #2sl 投稿は インスタの URL入り投稿 を除外する
 ⇒ #2sl が二重起動し、Slack への転送がダブる。  
   
 ## 補記
-スマホで `#2sl` と打つのはめんどくさいので
-「す」に `#2sl` を辞書登録をした。
+スマホで `#2sl` と打つのはめんどくさいので、「す」に `#2sl` を辞書登録した。
 
 ---
 
