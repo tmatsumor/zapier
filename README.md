@@ -55,8 +55,8 @@ Does not contain `https://www.instagram.com` を指定する。
 ・Message Text を Text 設定。  
 ・Send as bot を No とする。  
 ・Include a link to this Zap? は No。  
-・Attach Image by URL に `Entities Attached Media Media Url https` を指定。  
-・Auto-Expand Links? に No を指定。  
+~~・Attach Image by URL に `Entities Attached Media Media Url https` を指定。~~  
+・Auto-Expand Links? に ~~No~~ Yes を指定。  
   
 
 ## 初期条件
