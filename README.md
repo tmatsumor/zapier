@@ -75,6 +75,20 @@ Twitter からの #2sl 投稿は インスタの URL入り投稿 を除外する
 ⇒ 並行して、インスタから Twitter に自動転送。  
 ⇒ #2sl の Twitter Zapier が起動し Slack に転送。  
 ⇒ #2sl が二重起動し、Slack への転送がダブる。  
+
+## 自動リンクプレビューの弊害とその対応
+Twitter から Zapier 経由で Slack への画像の投稿は   
+Attach Image by URL を通したほうがキレイだが  
+（Slack でも添付画像として扱われるため）、Auto-Expand Links が  
+Yes のままだと、ダブって画像が表示されてしまう（添付とリンクプレビューと）。  
+  
+それを避けるために、Auto-Expand Links を No としたが、すると次は    
+画像ではない、通常の URL のリンクプレビューが動作しなくなる。  
+  
+添付画像がイマイチになる点は目をつぶって、URL のリンクプレビューを  
+機能として優先させたほうが良さそうであるため、  
+Attach Image by URL は無し、Auto-Expand Links: Yes で設定する。  
+  
   
 ## 補記
 スマホで `#2sl` と打つのはめんどくさいので、「す」に `#2sl` を辞書登録した。
