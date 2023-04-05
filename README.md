@@ -10,11 +10,14 @@ Zap の History に表示される、使用タスクの量を見れば良い。
 なお、以下で示すＡとＢの Zap はそれぞれ 2タスクであった。
 
 ## Zapier
+Zapier でアカウントを作成し、以下を取得し  
+自分の Instagram, Twitter, Slack のアカウントを指定すれば良い。
+
 （Ａ）Insta2Slack  
-https://zapier.com/shared/ff45e2c7215ac762a5cb16877e96db282180bc32
+https://zapier.com/shared/ff45e2c7215ac762a5cb16877e96db282180bc32  
   
-（Ｂ）Twi2Slack
-https://zapier.com/shared/3bb70a167231c28357ca70fdded6a956970a7303
+（Ｂ）Twi2Slack  
+https://zapier.com/shared/3bb70a167231c28357ca70fdded6a956970a7303  
 
 ## やりたいこと
 インスタまたはTwitterから、特定ハッシュタグを含む  
