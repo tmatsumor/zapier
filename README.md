@@ -64,6 +64,10 @@ Twitter からの #2sl 投稿は インスタの URL入り投稿 を除外する
 ⇒ #2sl の Twitter Zapier が起動し Slack に転送。  
 ⇒ #2sl が二重起動し、Slack への転送がダブる。  
   
+## 補記
+スマホで `#2sl` と打つのはめんどくさいので
+「す」に `#2sl` を辞書登録をした。
+
 ---
 
 [1]: IFTTT でも構わなかったのだが、Twitter への Connect で  
