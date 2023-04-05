@@ -23,7 +23,9 @@ https://zapier.com/shared/3bb70a167231c28357ca70fdded6a956970a7303
 インスタまたはTwitterから、特定ハッシュタグを含む  
 投稿のみを Slack に転送したい。  
 特定ハッシュタグは、Slack への転送なので `#2sl` とする。  
-  
+以下 Ａ, Ｂ は既に Zapier の上記テンプレートに含まれているが、  
+説明文として以下に残しておく。
+
 ## （Ａ）Instagram ⇒ Slack 連携
 １．Create Zap から Trigger で Instagram を選ぶ。  
   
